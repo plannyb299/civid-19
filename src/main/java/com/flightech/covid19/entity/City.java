@@ -1,0 +1,30 @@
+package com.flightech.covid19.entity;
+
+public enum City {
+	  HARARE,
+	BULAWAYO,
+	GWERU,
+	KWEKWE,
+	MUTARE,
+	KADOMA,
+	CHEGUTU,
+	MASVINGO,
+	LUPANE,
+	GOKWE,
+	MVUMA,
+	BHINDURA,
+	TRIANGLE,
+	CHIREDZI,
+	MUREWA,
+	MUTOKO,
+	VICTORIA_FALLS,
+	HWANGE,
+	RUSAPE,
+	MARONDERA,
+	MAZOE,
+	CHIRUMHANZU,
+	CHIVI
+
+
+
+}
